@@ -1,4 +1,0 @@
-Git команды
-git init инализация проекта
-git add . или git add help.txt индексация
-git commit -m "Снимок или коммите"
